@@ -4,6 +4,10 @@ import java.io.BufferedReader;
 import java.io.FileWriter;
 import java.io.FileReader;
 
+//
+// YES I KNOW THIS IS SPELLED WRONG SO I'M NOT USING IT ATM
+//
+
 // Code written by Jackson "Chubs" Clark
 // This code turns a string into ascii art that works!
 
